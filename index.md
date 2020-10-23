@@ -2,7 +2,7 @@
 
 ### Michigan's first journal featuring student and faculty opinions on current Science and Technology trends
 
-Sample addition to webpage to demo with [Link](www.google.com) to Google.
+Sample addition to webpage to demo with [Link](https://www.google.com) to Google.
 
 You can use the [editor on GitHub](https://github.com/mjst-umich/sample-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
